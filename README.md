@@ -1,2 +1,2 @@
 # CourseraML-AndrewNgCourse
-Machine Learning Course by Andrew Ns
+Machine Learning Course by Andrew Ng
